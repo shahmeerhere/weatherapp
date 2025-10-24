@@ -136,4 +136,3 @@ Feel free to use, modify, and share with credit.
 
 ---
 
-Would you like me to add **GitHub badges + emojis for section titles (like tech stack badges, build status, and deployment link)** so it looks *super-polished for recruiters and clients*?
